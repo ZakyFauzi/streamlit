@@ -1,5 +1,5 @@
 streamlit
 pandas
 scikit-learn
-import torch
+torch
 transformers
